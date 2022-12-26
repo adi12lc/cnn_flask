@@ -1,0 +1,6 @@
+Flask
+numpy
+pytest-shutil
+tensorflow
+pip
+scipy
