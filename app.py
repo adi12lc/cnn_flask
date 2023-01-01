@@ -8,6 +8,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dropout, Flatten, Dense, Conv2D, MaxPooling2D
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 import os
+import pandas as pd 
 
 app = Flask(__name__)
 # UPLOAD_FOLDER = r"C:\Users\adity\PycharmProjects\pythonProject\git\cnn_machine\ima"
